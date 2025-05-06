@@ -1,0 +1,6 @@
+@ArtifactBackend_HostAddress = http://localhost:5034
+
+GET {{ArtifactBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
